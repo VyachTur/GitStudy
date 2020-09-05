@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ADDED__
+=======
+OTHER____
+>>>>>>> newFileBRANCHtxt
